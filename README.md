@@ -1,4 +1,4 @@
-# CRUD utilizando Java EE
+# CRUD utilizando Java EE <img align="center" alt="Karen-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"><img align="center" alt="Karen-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg"><img align="center" alt="Karen-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
 
 - O projeto foi feito inteiramente com JDBC, e conceitos de Servlet, sem utilizar Hibernate/JPA
 - O banco de dados utilizado é o PostgreSQL, que está rodando através do Docker, sendo necessário utilizar o comando ```docker-compose up``` para que o banco de dados funcione 
